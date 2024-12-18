@@ -1,6 +1,6 @@
 # 42ft_printf
 Create your own printf function in C | 42 Türkiye - Istanbul Campus
-# What Have I Learnt?
+# Materials
 
 ### **`va_arg(args, int)`**
 
